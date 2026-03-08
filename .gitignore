@@ -1,0 +1,16 @@
+# Data artifacts
+data/
+*.duckdb
+*.duckdb.wal
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
